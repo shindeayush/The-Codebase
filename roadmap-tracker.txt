@@ -1,0 +1,408 @@
+ROADMAP TRACKER
+Mark an item with an x when it is done, like this: [x]
+Use ~ for in progress, like this: [~]
+
+CONTENTS
+ 1. Core
+ 2. Front end
+ 3. Back end
+ 4. Mobile apps
+ 5. Desktop apps
+ 6. Game dev
+ 7. AR / VR
+ 8. AI / ML
+ 9. Data
+10. Cloud and DevOps
+11. Cybersecurity
+12. Systems programming
+13. Embedded and IoT
+14. Robotics
+15. Scripting and automation
+16. Testing and QA
+17. Blockchain and Web3
+18. Quantum computing
+19. Low-code and no-code
+20. Later / watch list
+
+
+=====================================
+1. CORE
+=====================================
+-- Languages
+[~] C
+[~] C++
+[~] Python
+[~] C#
+
+-- Database language
+[ ] SQL
+
+-- Tools everyone needs
+[ ] Git and GitHub
+[ ] Linux, terminal and Bash
+
+
+=====================================
+2. FRONT END
+(the part of an app the user sees and clicks)
+=====================================
+-- Websites
+[ ] HTML
+[ ] CSS
+[ ] JavaScript
+[ ] TypeScript
+
+-- Frameworks
+[ ] React, then Next.js
+[ ] Vue
+[ ] Angular
+[ ] Svelte
+[ ] Tailwind CSS and Bootstrap
+
+-- Tools and skills
+[ ] npm and Vite
+[ ] Responsive design
+[ ] Accessibility
+[ ] Browser dev tools
+[ ] Testing (Jest, Playwright)
+
+
+=====================================
+3. BACK END
+(the part that runs on a server: logic, data, security)
+=====================================
+-- Languages
+[ ] Python
+[ ] JavaScript / TypeScript (Node.js)
+[ ] Java
+[ ] Kotlin
+[ ] C#
+[ ] Go
+[ ] PHP
+[ ] Rust
+[ ] Later: Ruby, Scala, Elixir
+
+-- Frameworks
+[ ] FastAPI, Django, Flask (Python)
+[ ] Express, NestJS (Node.js)
+[ ] Spring Boot (Java / Kotlin)
+[ ] ASP.NET Core (C#)
+[ ] Laravel (PHP)
+[ ] Rails (Ruby)
+
+-- Databases
+[ ] PostgreSQL, MySQL, SQLite
+[ ] MongoDB
+[ ] Redis
+
+-- APIs
+[ ] REST
+[ ] GraphQL
+[ ] gRPC
+[ ] WebSockets
+
+-- Other back-end topics
+[ ] Login and security (JWT, OAuth, password hashing)
+[ ] Message queues (Kafka, RabbitMQ)
+[ ] Caching and background jobs
+
+
+=====================================
+4. MOBILE APPS
+=====================================
+-- Cross-platform (one code base for iPhone and Android)
+[ ] Flutter (Dart)
+[ ] React Native
+
+-- iPhone
+[ ] Swift
+[ ] SwiftUI
+
+-- Android
+[ ] Kotlin
+[ ] Jetpack Compose
+
+-- Skills
+[ ] Mobile screen design
+[ ] Publishing to the app stores
+
+
+=====================================
+5. DESKTOP APPS
+=====================================
+-- Windows
+[ ] Win32 in C (your IDE project)
+[ ] C# with WinForms or WPF
+
+-- Cross-platform
+[ ] Qt (C++)
+[ ] Electron (JavaScript)
+[ ] Tauri (Rust)
+
+-- Skills
+[ ] GUI basics (windows, buttons, events)
+[ ] Making an installer
+
+
+=====================================
+6. GAME DEV
+=====================================
+-- Engines
+[ ] Unity (C#)
+[ ] Unreal Engine (C++)
+[ ] Godot (GDScript or C#)
+[ ] Custom engines (raylib, SDL)
+
+-- By type of game
+[ ] 2D games
+[ ] 3D games
+[ ] Mobile games
+[ ] Browser games (Phaser, Three.js)
+
+-- Game programming areas
+[ ] Graphics (OpenGL, Vulkan, DirectX)
+[ ] Shaders (GLSL, HLSL)
+[ ] Physics and collisions
+[ ] Game AI
+[ ] Multiplayer and networking
+[ ] Audio
+
+-- Non-code side
+[ ] Game design basics
+[ ] 3D modeling with Blender
+[ ] Level design
+
+
+=====================================
+7. AR / VR
+=====================================
+-- Tools
+[ ] Unity XR
+[ ] Unreal Engine VR
+[ ] WebXR (in the browser)
+[ ] ARKit (iPhone) and ARCore (Android)
+
+-- Skills
+[ ] 3D modeling with Blender
+[ ] Designing for comfort in VR
+
+
+=====================================
+8. AI / ML
+=====================================
+-- Math
+[ ] Linear algebra
+[ ] Probability and statistics
+
+-- Python tools
+[ ] NumPy, Pandas, Matplotlib
+[ ] scikit-learn
+
+-- Deep learning
+[ ] PyTorch
+[ ] TensorFlow
+
+-- Modern AI
+[ ] Hugging Face, Jupyter Notebook
+[ ] LLM APIs, LangChain
+[ ] Vector databases
+[ ] Serving models (FastAPI, ONNX)
+
+-- Faster computing
+[ ] CUDA (after C++)
+
+-- Optional
+[ ] R
+[ ] Julia
+
+
+=====================================
+9. DATA
+=====================================
+-- Data analysis
+[ ] Data cleaning
+[ ] Data visualization
+
+-- Data engineering (moving and storing huge amounts of data)
+[ ] SQL pipelines
+[ ] Airflow
+[ ] Spark
+[ ] Data warehouses (BigQuery, Snowflake)
+[ ] Streaming data (Kafka)
+
+
+=====================================
+10. CLOUD AND DEVOPS
+=====================================
+-- Cloud
+[ ] AWS
+[ ] Azure
+[ ] Google Cloud
+
+-- DevOps (getting software built, tested and running)
+[ ] Docker
+[ ] Kubernetes
+[ ] CI/CD
+[ ] Nginx
+[ ] Terraform
+[ ] Monitoring
+
+
+=====================================
+11. CYBERSECURITY
+=====================================
+-- Basics
+[ ] Networking basics
+[ ] Secure coding
+
+-- Analysis
+[ ] Reverse engineering with Ghidra
+
+-- Web
+[ ] Web security basics
+
+
+=====================================
+12. SYSTEMS PROGRAMMING
+(operating systems, drivers, compilers)
+=====================================
+-- Foundations
+[ ] How memory works
+[ ] Assembly
+[ ] Operating system concepts
+
+-- Languages
+[ ] C
+[ ] C++
+[ ] Rust
+
+-- Later
+[ ] Compilers (programs that turn code into machine instructions)
+[ ] Drivers
+[ ] Linux kernel
+
+
+=====================================
+13. EMBEDDED AND IOT
+(code that runs inside devices)
+=====================================
+-- Boards
+[ ] Arduino (C / C++)
+[ ] Raspberry Pi (Python)
+[ ] ESP32
+
+-- Languages
+[ ] C / C++ for devices
+[ ] MicroPython
+
+-- Skills
+[ ] Electronics basics
+[ ] Talking to sensors (I2C, SPI, UART)
+[ ] RTOS (later)
+
+
+=====================================
+14. ROBOTICS
+=====================================
+-- Software
+[ ] ROS (Robot Operating System)
+[ ] Simulation (Gazebo)
+
+-- Skills
+[ ] Sensors and motors
+[ ] Computer vision (OpenCV)
+[ ] Path planning
+
+
+=====================================
+15. SCRIPTING AND AUTOMATION
+(small programs that do boring tasks for you)
+=====================================
+-- Languages
+[ ] Python scripts
+[ ] Bash
+[ ] PowerShell
+
+-- Skills
+[ ] Scheduling (cron, Task Scheduler)
+[ ] Web scraping
+[ ] Using APIs from scripts
+
+
+=====================================
+16. TESTING AND QA
+(code that checks other code works)
+=====================================
+-- Unit testing
+[ ] pytest
+[ ] JUnit
+
+-- UI testing
+[ ] Selenium
+[ ] Playwright
+
+-- API testing
+[ ] Postman
+
+-- Method
+[ ] Test-driven development (TDD)
+
+
+=====================================
+17. BLOCKCHAIN AND WEB3
+=====================================
+-- Basics
+[ ] How a blockchain works
+
+-- Languages
+[ ] Solidity (Ethereum)
+[ ] Rust (Solana)
+
+-- Tools
+[ ] Smart contracts
+[ ] Hardhat
+[ ] Smart contract security
+
+
+=====================================
+18. QUANTUM COMPUTING
+=====================================
+-- Basics
+[ ] Linear algebra for quantum
+[ ] Qubits and quantum circuits
+
+-- Tools
+[ ] Qiskit (Python)
+[ ] Cirq
+
+
+=====================================
+19. LOW-CODE AND NO-CODE
+(building apps with visual tools)
+=====================================
+-- Tools
+[ ] Power Apps
+[ ] Bubble
+[ ] Webflow
+[ ] Airtable
+[ ] Retool
+[ ] Zapier and n8n (connecting apps together)
+
+
+=====================================
+20. LATER / WATCH LIST
+=====================================
+[ ] Ruby
+[ ] Scala
+[ ] Elixir
+[ ] Swift
+[ ] Dart
+[ ] Zig
+[ ] Mojo
+[ ] Lua
+[ ] PowerShell
+
+
+=====================================
+NOTES
+=====================================
