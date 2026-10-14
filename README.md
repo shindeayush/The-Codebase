@@ -44,7 +44,7 @@ The base everything else sits on.
 **Languages**
 - ✅ [C](01-core/C.md)
 - ✅ [C++](01-core/Cpp.md)
-- 🚧 Python
+- ✅ [Python](01-core/Python.md)
 - ✅ [C#](01-core/CSharp.md)
 
 **Database language**
