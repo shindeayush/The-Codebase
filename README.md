@@ -197,24 +197,24 @@ All the Programming Lanugages
 
 ---
 ## Software Development
-  ##  Front end
+  **1. Frontend**
 
-  ##  Back end
+  **2. Backend**
 
-  ##  Full Stack Development
+  **3. Full Stack Development**
   
-  ##  Mobile Development
+  **4. Mobile Development**
 
-  ##  Desktop Development
+  **5. Desktop Development**
 
-  ## Game Development
+  **6. Game Development**
   
-  ##  AR / VR
+  **7. AR / VR**
   
-  ##  Systems programming
+  **8. Systems programming**
 
 ##  AI / ML
-  ##  Robotics
+  **1.  Robotics**
 
 ##  Data Science and Engineering
 
@@ -223,15 +223,15 @@ All the Programming Lanugages
 ##  Cybersecurity
 
 ## Theoretical CS
-  ##  Scripting and automation
+  **1.  Scripting and automation**
 
-  ##  Testing and QA
+  **2.  Testing and QA**
 
-  ##  Blockchain and Web3
+  **3.  Blockchain and Web3**
 
-  ##  Quantum computing
+  **4.  Quantum computing**
 
-  ##  Low-code and no-code
+  **5.  Low-code and no-code**
 
 
 
