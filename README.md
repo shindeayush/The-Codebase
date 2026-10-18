@@ -11,6 +11,7 @@ New languages and topics will be added over time. Every roadmap is written once 
 
 1. First completely read this readme
 2. Pick your category listed below and continue from there
+
 For any questions, just ask the creators.
 
 ---
