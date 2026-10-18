@@ -17,8 +17,10 @@ For any questions, just ask the creators.
 
 ## Categories
 ## Software Development
-  **1. Frontend**
+Software Development is the broad process of planning, building, testing, and maintaining software. It includes understanding users’ needs, writing code, fixing problems, and improving the product over time. Most categories below are branches of software development.
 
+  **1. Frontend**
+    Frontend Development is building the part of a website that users see and interact with. This includes page layouts, navigation, buttons, forms, and animations. Frontend developers also make sure the      site works on different screen sizes and is accessible to people with disabilities.
   **2. Backend**
 
   **3. Full Stack Development**
