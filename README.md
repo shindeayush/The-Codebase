@@ -53,7 +53,6 @@ All the Programming Lanugages
 -  [Node.js]
 -  [Java]
 -  [Kotlin]
--  [C#]
 -  [Go]
 -  [PHP]
 -  [Rust]
@@ -123,6 +122,7 @@ All the Programming Lanugages
 -  Linux
 -  Terminal
 -  Bash
+-  PowerShell
 -  3D modeling with Blender
 -  WebXR (in the browser)
 -  Hugging Face
@@ -150,8 +150,6 @@ All the Programming Lanugages
 -  Web scraping
 -  Using APIs from scripts
 -  Python scripts
--  Bash
--  PowerShell
 -  Postman
 -  Smart contracts
 -  Smart contract security
