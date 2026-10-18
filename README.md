@@ -25,18 +25,39 @@ Frontend Development is building the part of a website that users see and intera
 You can learn frontend here: [Frontend](SoftwareDevelopment/03-frontend-development.md)
     
   **2. Backend**
+Backend Development is building the software that runs on servers and handles requests from the frontend. It manages data, user accounts, permissions, and the rules behind features. It also connects the application to databases and other services.
+
+You can learn backend here: [Backend](SoftwareDevelopment/04-backend-development.md)
 
   **3. Full Stack Development**
-  
+Working on both frontend and backend, including how they communicate. A full stack developer can build a user interface, create server endpoints, connect a database, and bring those pieces together into a working application.
+
+You can learn fullstack here: [Full Stack](SoftwareDevelopment/05-full-stack-development.md)
+
   **4. Mobile Development**
+Creating applications for smartphones and tablets. It involves designing for touchscreens, different device sizes, battery limits, and features such as cameras, location, and notifications. Apps can target one platform or share code across Android and iOS.
+
+You can learn mobile development here: [Mobile](SoftwareDevelopment/06-mobile-development.md)
 
   **5. Desktop Development**
+Creating applications that run on Windows, macOS, or Linux. These apps can work with local files, use computer hardware, and provide features such as multiple windows, keyboard shortcuts, and offline access.
+
+You can learn desktop development here: [Desktop](SoftwareDevelopment/07-desktop-development.md)
 
   **6. Game Development**
-  
-  **7. AR / VR**
-  
+Creating interactive games by combining programming with design, art, and sound. Developers build gameplay rules, controls, character behaviour, physics, and graphics. They also optimize performance so the game runs smoothly.
+
+You can learn game development here: [Game](SoftwareDevelopment/08-game-development.md)  
+
+  **7. Graphics(AR / VR)**
+Augmented reality (AR) places digital objects or information over a view of the real world. Virtual reality (VR) creates a virtual environment experienced through a headset. Development involves 3D graphics, movement tracking, and designing comfortable interactions.
+
+You can learn frontend here: [Graphics](SoftwareDevelopment/13-computer-graphics-and-ar-vr.md)  
+
   **8. Systems programming**
+Building the underlying software that helps computers operate and other programs run. It involves working closely with memory, processors, storage, and operating-system features. Developers focus on efficient resource use, reliability, and precise control over the machine.
+
+You can learn frontend here: [Systems](SoftwareDevelopment/11-systems-and-embedded-development.md)
 
 ##  AI / ML
   **1.  Robotics**
