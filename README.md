@@ -13,7 +13,47 @@ New languages and topics will be added over time. Every roadmap is written once 
 2. Pick your category listed below and continue from there
 
 For any questions, just ask the creators.
+---
 
+## Categories
+## Software Development
+  **1. Frontend**
+
+  **2. Backend**
+
+  **3. Full Stack Development**
+  
+  **4. Mobile Development**
+
+  **5. Desktop Development**
+
+  **6. Game Development**
+  
+  **7. AR / VR**
+  
+  **8. Systems programming**
+
+##  AI / ML
+  **1.  Robotics**
+
+##  Data Science and Engineering
+
+##  Cloud Computing and DevOps
+
+##  Cybersecurity
+
+## Theoretical CS
+  **1.  Scripting and automation**
+
+  **2.  Testing and QA**
+
+  **3.  Blockchain and Web3**
+
+  **4.  Quantum computing**
+
+  **5.  Low-code and no-code**
+
+---
 ## Programming Languages
 
 All the Programming Lanugages
@@ -174,45 +214,4 @@ All the Programming Lanugages
 
 ---
 
-## Categories
-## Software Development
-  **1. Frontend**
-
-  **2. Backend**
-
-  **3. Full Stack Development**
-  
-  **4. Mobile Development**
-
-  **5. Desktop Development**
-
-  **6. Game Development**
-  
-  **7. AR / VR**
-  
-  **8. Systems programming**
-
-##  AI / ML
-  **1.  Robotics**
-
-##  Data Science and Engineering
-
-##  Cloud Computing and DevOps
-
-##  Cybersecurity
-
-## Theoretical CS
-  **1.  Scripting and automation**
-
-  **2.  Testing and QA**
-
-  **3.  Blockchain and Web3**
-
-  **4.  Quantum computing**
-
-  **5.  Low-code and no-code**
-
-
-
----
 
