@@ -42,7 +42,7 @@ Status key: ✅ done · 🚧 in progress · ⬜ planned
 The base everything else sits on.
 
 **Languages**
-- ✅ [C](01-core/C.md)
+- ✅ [C](Programming Languages/C.md)
 - ✅ [C++](01-core/Cpp.md)
 - ✅ [Python](01-core/Python.md)
 - ✅ [C#](01-core/CSharp.md)
