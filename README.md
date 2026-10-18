@@ -196,42 +196,42 @@ All the Programming Lanugages
 -  ESP32
 
 ---
+## Software Development
+  ##  Front end
 
-## 2. Front end
+  ##  Back end
 
-## 3. Back end
+  ##  Full Stack Development
+  
+  ##  Mobile Development
 
-## 4. Mobile apps
+  ##  Desktop Development
 
-## 5. Desktop apps
+  ## Game Development
+  
+  ##  AR / VR
+  
+  ##  Systems programming
 
-## 6. Game dev
+##  AI / ML
+  ##  Robotics
 
-## 7. AR / VR
+##  Data Science and Engineering
 
-## 8. AI / ML
+##  Cloud Computing and DevOps
 
-## 9. Data
+##  Cybersecurity
 
-## 10. Cloud and DevOps
+## Theoretical CS
+  ##  Scripting and automation
 
-## 11. Cybersecurity
+  ##  Testing and QA
 
-## 12. Systems programming
+  ##  Blockchain and Web3
 
-## 13. Embedded and IoT
+  ##  Quantum computing
 
-## 14. Robotics
-
-## 15. Scripting and automation
-
-## 16. Testing and QA
-
-## 17. Blockchain and Web3
-
-## 18. Quantum computing
-
-## 19. Low-code and no-code
+  ##  Low-code and no-code
 
 
 
