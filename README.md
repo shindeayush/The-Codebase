@@ -1,43 +1,20 @@
-# Roadmaps
+# Codebase
+This is a resource hub created by students for students. It contains roadmaps on how to study, what to study, where to study for specific fields.
 
-Learning roadmaps for programming languages and the technologies around them, written by friends, for anyone starting from zero.
+# Disclaimer
+Please note that this has been primarily created using AI, information available on the internet and our seniors. We advice you to please also do your own research and study do NOT just blindly follow this repository (although it is quite good I would say), take it slow and steady.
+Also you don't have to study everything listed here, you only have to study what you're interested in.
 
-New languages and topics will be added over time. Every roadmap is written once and linked from every category it belongs to (for example, JavaScript appears under both Front end and Back end).
+New languages and topics will be added over time. Every roadmap is written once and linked from every category it belongs to.
 
 ## How to read this repo
 
-1. Start with **Core**.
-2. Pick one direction from the list below.
-3. Follow the roadmap files in order. Each one has the same headings: **Prerequisites, Weeks, Project, Resources**.
+1. First completely read this readme
+2. Pick your category listed below and continue from there
 
-Status key: ✅ done · 🚧 in progress · ⬜ planned
+For any questions, just ask the creators.
 
-## Categories
-
-1. [Core](#1-programming-languages)
-2. [Front end](#2-front-end)
-3. [Back end](#3-back-end)
-4. [Mobile apps](#4-mobile-apps)
-5. [Desktop apps](#5-desktop-apps)
-6. [Game dev](#6-game-dev)
-7. [AR / VR](#7-ar--vr)
-8. [AI / ML](#8-ai--ml)
-9. [Data](#9-data)
-10. [Cloud and DevOps](#10-cloud-and-devops)
-11. [Cybersecurity](#11-cybersecurity)
-12. [Systems programming](#12-systems-programming)
-13. [Embedded and IoT](#13-embedded-and-iot)
-14. [Robotics](#14-robotics)
-15. [Scripting and automation](#15-scripting-and-automation)
-16. [Testing and QA](#16-testing-and-qa)
-17. [Blockchain and Web3](#17-blockchain-and-web3)
-18. [Quantum computing](#18-quantum-computing)
-19. [Low-code and no-code](#19-low-code-and-no-code)
-20. [Later and watch list](#20-later-and-watch-list)
-
----
-
-## 1. Programming Languages
+## Programming Languages
 
 All the Programming Lanugages
 
@@ -196,6 +173,8 @@ All the Programming Lanugages
 -  ESP32
 
 ---
+
+## Categories
 ## Software Development
   **1. Frontend**
 
