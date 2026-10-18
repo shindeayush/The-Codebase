@@ -57,27 +57,57 @@ You can learn frontend here: [Graphics](SoftwareDevelopment/13-computer-graphics
   **8. Systems programming**
 Building the underlying software that helps computers operate and other programs run. It involves working closely with memory, processors, storage, and operating-system features. Developers focus on efficient resource use, reliability, and precise control over the machine.
 
-You can learn frontend here: [Systems](SoftwareDevelopment/11-systems-and-embedded-development.md)
+You can learn systems development here: [Systems](SoftwareDevelopment/11-systems-and-embedded-development.md)
 
 ##  AI / ML
+Artificial intelligence (AI) covers systems that perform tasks such as understanding language, recognizing images, or planning actions. 
+
+Machine learning (ML) is a branch of AI where models learn patterns from data. Work often involves preparing data, training models, and evaluating how well they handle new examples.
+
+You can learn AI/ML here: [AI/ML](AIML/01-ai-and-machine-learning.md)
+
+
   **1.  Robotics**
+Combining software, electronics, and mechanics to build machines that interact with the physical world. Robots use sensors to observe their surroundings, control systems to decide how to move, and motors to act. Some use AI for tasks such as recognizing objects or planning routes.
 
 ##  Data Science and Engineering
+Engineering	Data science uses programming, statistics, and sometimes machine learning to explore data, answer questions, and make predictions. 
+
+Data engineering builds the pipelines and storage systems that collect, clean, and organize that data. Together, they turn raw information into reliable insights and useful products.
+
+You can learn Data Science here: [Data](DataSciNDataEngienering/09-data-science-and-data-engineering.md)
+
 
 ##  Cloud Computing and DevOps
+Cloud computing provides computing resources—such as servers, databases, and storage—over the internet. DevOps brings software development and operations together through collaboration and automation. It helps teams test, release, monitor, and maintain applications reliably.
+
+You can learn Cloud Computing here: [CC & DevOps](CloudComputingNDevOps/10-cloud-and-devops.md)
 
 ##  Cybersecurity
+Protecting computers, networks, applications, and data from unauthorized access, misuse, and disruption. It includes designing secure systems, finding weaknesses, detecting attacks, and responding to incidents. Different specializations focus on areas such as web applications, networks, cloud infrastructure, or digital investigations.
+
+You can learn Cybersecurity here: [cybersec](CyberSecurity/02-cybersecurity.md)
+You can learn Networking here: [cybersec](CyberSecurity/12-networking.md)
 
 ## Theoretical CS
+Studying the mathematical foundations of computing: what computers can solve, how efficiently they can solve it, and which problems have fundamental limits. Topics include algorithms, logic, proofs, automata, computability, and complexity. It helps explain why an approach works and how its resource requirements grow.
+
+You can learn Networking here: [Theoretical](TheoreticalCompSci/14-theoretical-computer-science.md)
+
   **1.  Scripting and automation**
+Writing programs that carry out repetitive tasks with little manual effort. Scripts can organize files, process spreadsheets, connect services, or run scheduled jobs. The focus is often on saving time and making a repeatable process more consistent.
 
   **2.  Testing and QA**
+Testing checks how software behaves and helps uncover defects through manual or automated checks. Quality assurance (QA) covers the broader practices used to prevent problems and improve software quality throughout development. This can include reviewing requirements and checking usability, accessibility, performance, and reliability.
 
   **3.  Blockchain and Web3**
+Blockchain stores a shared record of transactions across a network, using rules that let participants agree on updates and make past records difficult to alter. Web3 commonly refers to applications built around blockchains, wallets, tokens, and smart contracts—programs that execute on the blockchain.
 
   **4.  Quantum computing**
+Studying and building computations that use quantum bits, or qubits, and effects such as superposition, interference, and entanglement. Quantum algorithms could offer advantages for certain problems, including simulating quantum systems. Quantum computers are specialized tools, and they do not make every kind of computation faster.
 
   **5.  Low-code and no-code**
+Building applications and automated workflows using visual editors, reusable components, and prebuilt integrations. Low-code tools allow custom programming when needed, while no-code tools focus on configuration without writing code. They can speed up development, although customization depends on what the platform supports.
 
 ---
 ## Programming Languages
