@@ -61,10 +61,10 @@ The base everything else sits on.
 The part of an app the user sees and clicks.
 
 **Websites**
-- ⬜ HTML
-- ⬜ CSS
-- ⬜ JavaScript
-- ⬜ TypeScript
+- ⬜ [HTML](02-frontEnd/Websites/HTML_Roadmap_From_Zero_to_Your_First_Real_Web_Pages.md)
+- ⬜ [CSS](02-frontEnd/Websites/CSS_Roadmap_From_Zero_to_Beautiful_Responsive_Pages.md)
+- ⬜ [JavaScript](02-frontEnd/Websites/JavaScript_Roadmap_From_Zero_to_Interactive_Web_Apps.md)
+- ⬜ [TypeScript](02-frontEnd/Websites/TypeScript_Roadmap_From_Zero_to_Safer_Bigger_Projects.md)
 
 **Frameworks** (ready-made code for building pages faster)
 - ⬜ React, then Next.js
