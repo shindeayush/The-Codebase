@@ -14,6 +14,9 @@ New languages and topics will be added over time. Every roadmap is written once 
 
 For any questions, just ask the creators.
 
+## How to use the guides
+First download the guide, feed it to AI (use something like claude or gemini) and then ask it for guidance, courses, etc, make sure to ask the AI is this enough and how can you improve upon the guide and go from there, remember these aren't standalone guides they're here just to give you a brief idea of how to start where to go.
+
 ---
 
 ## Categories
