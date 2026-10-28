@@ -145,7 +145,7 @@ All the Programming Lanugages
 -  [Julia]
 -  [MicroPython]
   
-**Frameworks** (ready-made code for building pages faster)
+## Frameworks
 -  [React Native]
 -  React.js
 -  Next.js
@@ -192,7 +192,7 @@ All the Programming Lanugages
 -  Unity XR
 -  Unreal Engine VR
 
-**Tools and skills**
+## Tools and skills
 -  npm and Vite
 -  Responsive design
 -  Accessibility
@@ -239,29 +239,29 @@ All the Programming Lanugages
 -  Retool
 -  Zapier and n8n (connecting apps together)
   
-**Databases**
+## Databases 
 -  PostgreSQL, MySQL, SQLite
 -  MongoDB
 -  Redis
 
-**APIs** (rules that let programs talk to each other)
+## APIs
 -  REST
 -  GraphQL
 -  gRPC
 -  WebSockets
 
-**Engines** (software that gives you the tools to build a game)
+## Game Engines
 -  Unity (C#)
 -  Unreal Engine (C++)
 -  Godot (GDScript or C#)
 -  Custom engines (raylib, SDL)
 
-**Cloud**
+## Cloud
 -  AWS
 -  Azure
 -  Google Cloud
 
-**DevOps** (getting software built, tested and running)
+# DevOps
 -  Docker
 -  Kubernetes
 -  CI/CD
@@ -269,7 +269,7 @@ All the Programming Lanugages
 -  Terraform
 - Monitoring
 
-**Boards**
+# Boards
 -  Arduino (C / C++)
 -  Raspberry Pi (Python)
 -  ESP32
