@@ -146,14 +146,15 @@ All the Programming Lanugages
 -  [MicroPython]
   
 ## Frameworks
--  React.js
--  Next.js
--  [Node.js](Languages/Nodejs.md)
--  Vue
--  Angular
--  Svelte
--  Tailwind CSS
--  Bootstrap 
+-  React (JavaScript)
+-  Next (JavaScript)
+-  [Node (JavaScript)](Languages/Nodejs.md)
+-  Vue (JavaScript)
+-  Svelte (JavaScript)
+-  Electron (JavaScript)
+-  Angular (TypeScript)
+-  Tailwind (CSS)
+-  Bootstrap (CSS)
 -  FastAPI (Python)
 -  Django (Python)
 -  Flask (Python)
@@ -163,6 +164,8 @@ All the Programming Lanugages
 -  scikit-learn (Python)
 -  PyTorch (Python)
 -  TensorFlow (Python)
+-  pytest (Python)
+-  Qiskit (Python)
 -  Express (Node.js)
 -  NestJS (Node.js)
 -  Spring Boot (Java / Kotlin)
@@ -172,17 +175,14 @@ All the Programming Lanugages
 -  Rails (Ruby)
 -  SwiftUI (Swift)
 -  Qt (C++)
--  Electron (JavaScript)
 -  Tauri (Rust)
 -  Rust (Solana)
 -  Testing (Jest, Playwright)
 -  Selenium
--  pytest
 -  JUnit
 -  LangChain
 -  ROS (Robot Operating System) 
 -  Hardhat
--  Qiskit (Python)
 -  Cirq
 -  Airflow
 -  Spark
