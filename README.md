@@ -129,7 +129,6 @@ All the Programming Lanugages
 -  [JavaScript](Languages/JavaScript.md)
 -  [TypeScript](Languages/TypeScript.md)
 -  [Python](Languages/Python.md)
--  [Node.js](Languages/Nodejs.md)
 -  [Java](Languages/Java.md)
 -  [Kotlin](Languages/Kotlin.md)
 -  [Go](Languages/Go.md)
@@ -150,6 +149,7 @@ All the Programming Lanugages
 -  [React Native]
 -  React.js
 -  Next.js
+-  [Node.js](Languages/Nodejs.md)
 -  Vue
 -  Angular
 -  Svelte
