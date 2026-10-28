@@ -138,7 +138,7 @@ All the Programming Lanugages
 -  [Ruby](Languages/Ruby.md)
 -  [Scala]
 -  [Elixir]
--  [SQL]
+-  [SQL](Languages/SQL.md)
 -  [Dart](Languages/Dart.md)
 -  [Swift]
 -  [R](Languages/R.md)
