@@ -120,7 +120,7 @@ Building applications and automated workflows using visual editors, reusable com
 
 All the Programming Lanugages
 
-**Languages**
+**Important Languages**
 -  [C](Languages/C.md)
 -  [C++](Languages/Cpp.md)
 -  [C#](Languages/CSharp.md)
@@ -133,17 +133,17 @@ All the Programming Lanugages
 -  [Kotlin](Languages/Kotlin.md)
 -  [Go](Languages/Go.md)
 -  [PHP](Languages/PHP.md)
--  [Rust](Languages/Rust.md)
+-  [SQL](Languages/SQL.md)
+-  [Swift](Languages/Swift.md)
+-  [R](Languages/R.md)
 -  [Ruby](Languages/Ruby.md)
+
+**Extras**
 -  [Scala]
 -  [Elixir]
--  [SQL](Languages/SQL.md)
 -  [Dart](Languages/Dart.md)
--  [Swift]
--  [R](Languages/R.md)
 -  [Julia]
 -  [MicroPython]
--  [Solidity (Ethereum)]
   
 **Frameworks** (ready-made code for building pages faster)
 -  [React Native]
