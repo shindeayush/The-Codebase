@@ -8,7 +8,7 @@ Also you don't have to study everything listed here, you only have to study what
 New languages and topics will be added over time. Every roadmap is written once and linked from every category it belongs to.
 
 # If you're stil confused,
-If you're still confused in which field you want to choose and want a brief idea of what each field is you can visit [field](which-field-fits-you.md)
+If you're still confused about what field you want to go into and want a brief idea of what each field is you can visit [field](which-field-fits-you.md)
 
 ## How to read this repo
 1. First completely read this readme
