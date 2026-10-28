@@ -139,8 +139,7 @@ All the Programming Lanugages
 -  [Scala]
 -  [Elixir]
 -  [SQL]
--  [Flutter (Dart)]
--  [React Native]
+-  [Dart]
 -  [Swift]
 -  [R]
 -  [Julia]
@@ -148,6 +147,7 @@ All the Programming Lanugages
 -  [Solidity (Ethereum)]
   
 **Frameworks** (ready-made code for building pages faster)
+-  [React Native]
 -  React.js
 -  Next.js
 -  Vue
