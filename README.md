@@ -135,13 +135,13 @@ All the Programming Lanugages
 -  [Go](Languages/Go.md)
 -  [PHP](Languages/PHP.md)
 -  [Rust](Languages/Rust.md)
--  [Ruby]
+-  [Ruby](Languages/Ruby.md)
 -  [Scala]
 -  [Elixir]
 -  [SQL]
--  [Dart]
+-  [Dart](Languages/Dart.md)
 -  [Swift]
--  [R]
+-  [R](Languages/R.md)
 -  [Julia]
 -  [MicroPython]
 -  [Solidity (Ethereum)]
