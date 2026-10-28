@@ -139,11 +139,11 @@ All the Programming Lanugages
 -  [Ruby](Languages/Ruby.md)
 
 **Extras**
--  [Scala]
--  [Elixir]
+-  [Scala](Languages/Scala.md)
+-  [Elixir](Languages/Elixir.md)
 -  [Dart](Languages/Dart.md)
--  [Julia]
--  [MicroPython]
+-  [Julia](Languages/Julia.md)
+-  [MicroPython](Languages/MicroPython.md)
   
 ## Frameworks
 -  React (JavaScript)
