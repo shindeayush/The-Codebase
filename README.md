@@ -146,7 +146,6 @@ All the Programming Lanugages
 -  [MicroPython]
   
 ## Frameworks
--  [React Native]
 -  React.js
 -  Next.js
 -  [Node.js](Languages/Nodejs.md)
