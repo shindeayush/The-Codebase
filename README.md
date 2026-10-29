@@ -146,6 +146,7 @@ All the Programming Lanugages
 -  [MicroPython](Languages/MicroPython.md)
   
 ## Frameworks
+For the Frameworks, before you study any of them please just know that you HAVE to know the language they're based upon such as Python for NumPy or JavaScript for Node.js
 -  [React (JavaScript)](Frameworks/Reactjs.md)
 -  [Next (JavaScript)](Frameworks/Nextjs.md)
 -  [Node (JavaScript)](Frameworks/Nodejs.md)
