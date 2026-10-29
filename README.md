@@ -156,7 +156,7 @@ All the Programming Lanugages
 -  [Tailwind (CSS)](Frameworks/TailwindCSS.md)
 -  [Bootstrap (CSS)](Frameworks/BootstrapCSS.md)
 -  [FastAPI (Python)](Frameworks/FastAPIpy.md)
--  [Django (Python)](Frameworks/DjangoPy.md)
+-  [Django (Python)](Frameworks/DjangoPY.md)
 -  [Flask (Python)](Frameworks/FlaskPy.md)
 -  [NumPy (Python)](Frameworks/NumPy.md)
 -  [Pandas (Python)](Frameworks/PandasPy.md)
