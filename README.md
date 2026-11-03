@@ -33,45 +33,43 @@ You can learn frontend here: [Frontend](Guides/frontend_development_guide.md)
   **2. Backend**
 Backend Development is building the software that runs on servers and handles requests from the frontend. It manages data, user accounts, permissions, and the rules behind features. It also connects the application to databases and other services.
 
-You can learn backend here: [Backend](SoftwareDevelopment/04-backend-development.md)
+You can learn backend here: [Backend](Guides/backend_development_guide.md)
 
   **3. Full Stack Development**
 Working on both frontend and backend, including how they communicate. A full stack developer can build a user interface, create server endpoints, connect a database, and bring those pieces together into a working application.
 
-You can learn fullstack here: [Full Stack](SoftwareDevelopment/05-full-stack-development.md)
+You can learn fullstack here: [Full Stack](Guides/full_stack_development_guide.md)
 
   **4. Mobile Development**
 Creating applications for smartphones and tablets. It involves designing for touchscreens, different device sizes, battery limits, and features such as cameras, location, and notifications. Apps can target one platform or share code across Android and iOS.
 
-You can learn mobile development here: [Mobile](SoftwareDevelopment/06-mobile-development.md)
+You can learn mobile development here: [Mobile](Guides/mobile_development_guide.md)
 
   **5. Desktop Development**
 Creating applications that run on Windows, macOS, or Linux. These apps can work with local files, use computer hardware, and provide features such as multiple windows, keyboard shortcuts, and offline access.
 
-You can learn desktop development here: [Desktop](SoftwareDevelopment/07-desktop-development.md)
+You can learn desktop development here: [Desktop](Guides/desktop_development_guide.md)
 
   **6. Game Development**
 Creating interactive games by combining programming with design, art, and sound. Developers build gameplay rules, controls, character behaviour, physics, and graphics. They also optimize performance so the game runs smoothly.
 
-You can learn game development here: [Game](SoftwareDevelopment/08-game-development.md)  
+You can learn game development here: [Game](Guides/game_development_guide.md)  
 
   **7. Graphics(AR / VR)**
 Augmented reality (AR) places digital objects or information over a view of the real world. Virtual reality (VR) creates a virtual environment experienced through a headset. Development involves 3D graphics, movement tracking, and designing comfortable interactions.
 
-You can learn frontend here: [Graphics](SoftwareDevelopment/13-computer-graphics-and-ar-vr.md)  
-
   **8. Systems programming**
 Building the underlying software that helps computers operate and other programs run. It involves working closely with memory, processors, storage, and operating-system features. Developers focus on efficient resource use, reliability, and precise control over the machine.
 
-You can learn systems development here: [Systems](SoftwareDevelopment/11-systems-and-embedded-development.md)
+You can learn systems development here: [Systems](Guides/systems_and_embedded_development_guide.md)
 
 ##  AI / ML
 Artificial intelligence (AI) covers systems that perform tasks such as understanding language, recognizing images, or planning actions. 
 
 Machine learning (ML) is a branch of AI where models learn patterns from data. Work often involves preparing data, training models, and evaluating how well they handle new examples.
 
-You can learn AI/ML here: [AI/ML](AIML/01-ai-and-machine-learning.md)
-
+You can learn AI here: [AI](Guides/artificial_intelligencee_guide.md)
+You can learn ML here: [AI](Guides/machine_learning_guide.md)
 
   **1.  Robotics**
 Combining software, electronics, and mechanics to build machines that interact with the physical world. Robots use sensors to observe their surroundings, control systems to decide how to move, and motors to act. Some use AI for tasks such as recognizing objects or planning routes.
@@ -81,25 +79,28 @@ Engineering	Data science uses programming, statistics, and sometimes machine lea
 
 Data engineering builds the pipelines and storage systems that collect, clean, and organize that data. Together, they turn raw information into reliable insights and useful products.
 
-You can learn Data Science here: [Data](DataSciNDataEngienering/09-data-science-and-data-engineering.md)
+You can learn Data Science here: [Data](Guides/data_science_guide.md)
 
 
 ##  Cloud Computing and DevOps
 Cloud computing provides computing resources—such as servers, databases, and storage—over the internet. DevOps brings software development and operations together through collaboration and automation. It helps teams test, release, monitor, and maintain applications reliably.
 
-You can learn Cloud Computing here: [CC & DevOps](CloudComputingNDevOps/10-cloud-and-devops.md)
+You can learn Cloud Computing here: [CC](Guides/cloud_computing_guide.md)
+You can learn DevOps here: [DevOps](Guides/devops_guide.md)
 
 ##  Cybersecurity
 Protecting computers, networks, applications, and data from unauthorized access, misuse, and disruption. It includes designing secure systems, finding weaknesses, detecting attacks, and responding to incidents. Different specializations focus on areas such as web applications, networks, cloud infrastructure, or digital investigations.
 
-You can learn Cybersecurity here: [cybersec](CyberSecurity/02-cybersecurity.md)
-You can learn Networking here: [cybersec](CyberSecurity/12-networking.md)
+You can learn Cybersecurity here: [cybersec](Guides/cybersecurity_guide.md)
+You can learn Networking here: [networking](Guides/computer_networking_guide.md)
 
 ## Theoretical CS
 Studying the mathematical foundations of computing: what computers can solve, how efficiently they can solve it, and which problems have fundamental limits. Topics include algorithms, logic, proofs, automata, computability, and complexity. It helps explain why an approach works and how its resource requirements grow.
 
-You can learn Networking here: [Theoretical](TheoreticalCompSci/14-theoretical-computer-science.md)
+You can learn Theoretical Comp Sci here: [Theoretical](Guides/theoretical_computer_science_guide.md)
 
+## Other Fields
+These are lesser known, non-mainstream parts of Computer Science.
   **1.  Scripting and automation**
 Writing programs that carry out repetitive tasks with little manual effort. Scripts can organize files, process spreadsheets, connect services, or run scheduled jobs. The focus is often on saving time and making a repeatable process more consistent.
 
