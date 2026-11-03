@@ -28,7 +28,7 @@ Software Development is the broad process of planning, building, testing, and ma
   **1. Frontend**
 Frontend Development is building the part of a website that users see and interact with. This includes page layouts, navigation, buttons, forms, and animations. Frontend developers also make sure the      site works on different screen sizes and is accessible to people with disabilities.
 
-You can learn frontend here: [Frontend](SoftwareDevelopment/03-frontend-development.md)
+You can learn frontend here: [Frontend](Guides/frontend_development_guide.md)
     
   **2. Backend**
 Backend Development is building the software that runs on servers and handles requests from the frontend. It manages data, user accounts, permissions, and the rules behind features. It also connects the application to databases and other services.
