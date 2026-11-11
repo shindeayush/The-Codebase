@@ -1,24 +1,20 @@
-# Codebase
-This is a resource hub created by students for students. It contains roadmaps on how to study, what to study, where to study for specific fields.
-
 # Disclaimer
-Please note that this has been primarily created using AI, information available on the internet and our seniors. We advice you to please also do your own research and study do NOT just blindly follow this repository (although it is quite good I would say), take it slow and steady.
-Also you don't have to study everything listed here, you only have to study what you're interested in.
+Please note that this has been primarily created using AI i.e. information already available on the internet and so we advice you to please also do your own research and study do NOT just blindly follow this repository, take it slow and steady.
 
-New languages and topics will be added over time. Every roadmap is written once and linked from every category it belongs to.
+# Codebase
+Alright so, for the people who're new around here, this is Codebase, a resource hub created by students for students. 
+It is simply an information hub of sorts for all tech-related fields such as AI and more. It is created to help people who're still trying to get into tech and have no idea where to start or where they can find the resources to study and learn.
+The Codebase will be updated slowly yet steadily because it is still a work-in-progress but We hope that we can help everyone this reaches.
 
-# If you're stil confused,
-If you're still confused about what field you want to go into and want a brief idea of what each field is you can visit [field](which-field-fits-you.md)
-
-## How to read this repo
-1. First completely read this readme
-2. Pick your category listed below and continue from there
+Thank you for your time.
 
 For any questions, just ask the creators.
 
 ## How to use the guides
-First download the guide, feed it to AI (use something like claude or gemini) and then ask it for guidance, courses, etc, make sure to ask the AI is this enough and how can you improve upon the guide and go from there, remember these aren't standalone guides they're here just to give you a brief idea of how to start where to go.
+All you have to do is just open the guide you want to use and read it simply. We hope that our guide is NOT the only thing you're using to study your respective field/topic. Remember these aren't standalone perfect guides to set up your career, they're here just to give you a brief idea of how to start where to go.
 
+## For the New People
+If you're still confused about what field you want to go into or explore and want a brief idea of what each field is and what may suit you then you can visit: [field](which-field-fits-you.md)
 ---
 
 ## Categories
@@ -29,31 +25,37 @@ Software Development is the broad process of planning, building, testing, and ma
 Frontend Development is building the part of a website that users see and interact with. This includes page layouts, navigation, buttons, forms, and animations. Frontend developers also make sure the      site works on different screen sizes and is accessible to people with disabilities.
 
 You can learn frontend here: [Frontend](Guides/frontend_development_guide.md)
+and you can get references for frontend here: [Frontend](References/frontend_references.md)
     
   **2. Backend**
 Backend Development is building the software that runs on servers and handles requests from the frontend. It manages data, user accounts, permissions, and the rules behind features. It also connects the application to databases and other services.
 
 You can learn backend here: [Backend](Guides/backend_development_guide.md)
+and you can get references for backend here: [Backend](References/backend_references.md)
 
   **3. Full Stack Development**
 Working on both frontend and backend, including how they communicate. A full stack developer can build a user interface, create server endpoints, connect a database, and bring those pieces together into a working application.
 
 You can learn fullstack here: [Full Stack](Guides/full_stack_development_guide.md)
+and you can get references for fullstack here: [Full Stack](References/fullstack_references.md)
 
   **4. Mobile Development**
 Creating applications for smartphones and tablets. It involves designing for touchscreens, different device sizes, battery limits, and features such as cameras, location, and notifications. Apps can target one platform or share code across Android and iOS.
 
 You can learn mobile development here: [Mobile](Guides/mobile_development_guide.md)
+and you can get references for mobile development here: [Mobile](References/mobile_references.md)
 
   **5. Desktop Development**
 Creating applications that run on Windows, macOS, or Linux. These apps can work with local files, use computer hardware, and provide features such as multiple windows, keyboard shortcuts, and offline access.
 
 You can learn desktop development here: [Desktop](Guides/desktop_development_guide.md)
+and you can get references for desktop development here: [Desktop](References/desktop_references.md)
 
   **6. Game Development**
 Creating interactive games by combining programming with design, art, and sound. Developers build gameplay rules, controls, character behaviour, physics, and graphics. They also optimize performance so the game runs smoothly.
 
 You can learn game development here: [Game](Guides/game_development_guide.md)  
+and you can get references for game development here: [Game](References/gamedev_references.md)
 
   **7. Graphics(AR / VR)**
 Augmented reality (AR) places digital objects or information over a view of the real world. Virtual reality (VR) creates a virtual environment experienced through a headset. Development involves 3D graphics, movement tracking, and designing comfortable interactions.
@@ -69,7 +71,10 @@ Artificial intelligence (AI) covers systems that perform tasks such as understan
 Machine learning (ML) is a branch of AI where models learn patterns from data. Work often involves preparing data, training models, and evaluating how well they handle new examples.
 
 You can learn AI here: [AI](Guides/artificial_intelligencee_guide.md)
-You can learn ML here: [AI](Guides/machine_learning_guide.md)
+and you can get references for AI here: [AI](References/AI_references.md)
+
+You can learn ML here: [ML](Guides/machine_learning_guide.md)
+and you can get references for ML here: [ML](References/ML_references.md)
 
   **1.  Robotics**
 Combining software, electronics, and mechanics to build machines that interact with the physical world. Robots use sensors to observe their surroundings, control systems to decide how to move, and motors to act. Some use AI for tasks such as recognizing objects or planning routes.
@@ -80,19 +85,25 @@ Engineering	Data science uses programming, statistics, and sometimes machine lea
 Data engineering builds the pipelines and storage systems that collect, clean, and organize that data. Together, they turn raw information into reliable insights and useful products.
 
 You can learn Data Science here: [Data](Guides/data_science_guide.md)
-
+and you can get references for Data Science here: [Data](References/data_science_references.md)
 
 ##  Cloud Computing and DevOps
 Cloud computing provides computing resources—such as servers, databases, and storage—over the internet. DevOps brings software development and operations together through collaboration and automation. It helps teams test, release, monitor, and maintain applications reliably.
 
 You can learn Cloud Computing here: [CC](Guides/cloud_computing_guide.md)
+and you can get references for Cloud Computing here: [CC](References/cloud_computing_references.md)
+
 You can learn DevOps here: [DevOps](Guides/devops_guide.md)
+and you can get references for DevOps here: [DevOps](References/devops_references.md)
 
 ##  Cybersecurity
 Protecting computers, networks, applications, and data from unauthorized access, misuse, and disruption. It includes designing secure systems, finding weaknesses, detecting attacks, and responding to incidents. Different specializations focus on areas such as web applications, networks, cloud infrastructure, or digital investigations.
 
 You can learn Cybersecurity here: [cybersec](Guides/cybersecurity_guide.md)
+and you can get references for frontend here: [cybersec](References/cybersecurity_references.md)
+
 You can learn Networking here: [networking](Guides/computer_networking_guide.md)
+and you can get references for frontend here: [networking](References/networking_references.md)
 
 ## Theoretical CS
 Studying the mathematical foundations of computing: what computers can solve, how efficiently they can solve it, and which problems have fundamental limits. Topics include algorithms, logic, proofs, automata, computability, and complexity. It helps explain why an approach works and how its resource requirements grow.
