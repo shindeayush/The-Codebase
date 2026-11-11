@@ -15,6 +15,7 @@ All you have to do is just open the guide you want to use and read it simply. We
 
 ## For the New People
 If you're still confused about what field you want to go into or explore and want a brief idea of what each field is and what may suit you then you can visit: [field](which-field-fits-you.md)
+
 ---
 
 ## Categories
